@@ -15,7 +15,7 @@ In general this report comprehensively examines RFID solutions, RFID system arch
 
 In specific the report covers an in-depth examination of RFID paraphernalia used within the security industry, RFID attack vectors and MiFare smart card decryption gathered via third party independent security research historically undertaken and presented at Black Hat summits and briefings across the World. 
 
-'__The report also features the laboratory controlled quantitative instance of an exemplar penetration test undertaken on a student issued 4k MiFare Classic smart card (RFID tag) being utilised by Staffordshire University as security access and authentication within their facilities.__'
+`__The report also features the laboratory controlled quantitative instance of an exemplar penetration test undertaken on a student issued 4k MiFare Classic smart card (RFID tag) being utilised by Staffordshire University as security access and authentication within their facilities.__`
  
 Finally, the report concludes with a best practice security policy which can be adopted and utilised within the security industry for guidance on RFID systems implementation.
 
