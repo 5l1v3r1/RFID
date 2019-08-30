@@ -9,5 +9,5 @@
 
 ### RFID TAG
 
-![Screenshot](picture3.png) ![Screenshot](picture2.jpg)
+                                             ![Screenshot](picture2.jpg)
 
