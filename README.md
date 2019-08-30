@@ -5,7 +5,7 @@
 |------    |------            | -------                          |
 | PDF      | Dissertation.pdf | 0f95941fd5ee3c4ab33d884eba05e521 |
 
-- [x] **IMPORTANT** Not to be reproduced in any form without the express written permission of the document owner.
+- [x] **Not to be reproduced in any form without the express written permission of the document owner.**
 
 This Staffordshire University 'Final Year Project’ (FYP) report particulars an investigation into the cyber security aspects of RFID systems, RFID smart cards and their associated variable encryption methods utilising the NFC ACR122U RFID contactless smart card reader & writer. 
 
