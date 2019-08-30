@@ -20,7 +20,5 @@ __The report also features the laboratory controlled quantitative instance of an
 Finally, the report concludes with a best practice security policy which can be adopted and utilised within the security industry for guidance on RFID systems implementation.
 
 ### RFID TAG
+![Screenshot](picture1.png)
 
-<a href="http://www.youtube.com/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE
-" target="_blank"><img src="https://youtu.be/4TrH-PH45T0/0.jpg" 
-alt="Mr Robot" width="240" height="180" border="10" /></a>
