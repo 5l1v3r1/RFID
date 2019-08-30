@@ -5,7 +5,7 @@
 |------    |------            | -------                          |
 | PDF      | Dissertation.pdf | 0f95941fd5ee3c4ab33d884eba05e521 |
 
-- [x] Not to be re-produced without the express permission from document owner.
+- [x] Not to be reproduced in any form without the express written permission of the document owner.
 
 ### RFID TAG
 
